@@ -1,0 +1,57 @@
+.heading{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    margin-top: -100px;
+    z-index: 1;
+}
+
+.fa-user{
+    color:white;
+    margin-left: 1150px;
+    padding-right: 10px;
+}
+
+.mainimg{
+    width: 100%;
+    border-radius: 20px;
+}
+.mimg
+{
+    margin: 100px 20px;
+    width: 97%;
+    border-radius: 20px;
+    height: 300px;
+    overflow: hidden;
+}
+
+.mimg h1{
+    position: absolute;
+    margin-left: 20px;
+}
+
+.horimg{
+    display: flex;
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+.horimg img{
+
+    align-items: center;
+    width: 250px;
+    border-radius: 60px;
+    padding:  35px;
+    transform: scale(1.2);
+    display: inline-block;
+}
+.horimg a:hover{
+    transition-duration: 0.2;
+    transform: scale(1.1);
+}
+.thaimg{
+    height: 250px;
+    margin-bottom: 80px;
+}

@@ -1,0 +1,72 @@
+.heading{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    margin-top: -100px;
+    z-index: 1;
+}
+
+.fa-user{
+    color:white;
+    margin-left: 1150px;
+    padding-right: 10px;
+}
+
+.info{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.info2{
+    padding-left: 3%;
+}
+
+.infoimg{
+    border-radius: 16px;
+}
+
+.epi{
+    display: flex;
+    justify-content: space-between;
+}
+
+.epi p{
+    color: white;
+    font-size: 24px;
+}
+
+.genre{
+    margin-left: 30%;
+}
+
+.genre p{
+    color: white;
+    font-size: 20px;
+}
+
+.cast{
+    margin-left: 30%;
+}
+
+.cast p{
+    color: white;
+    font-size: 20px;
+}
+
+.about{
+    padding: 5px 0;
+    background: rgba(50, 57, 65, 0.38);
+    border-radius: 9px;
+}
+
+.desc{
+    width: 80%;
+    margin-left: 10%;
+}
+
+.desc p{
+    color: white;
+}
