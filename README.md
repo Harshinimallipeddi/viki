@@ -1,2 +1,2 @@
 # viki
-clone of rakuten viki website
+rakuten viki clone
